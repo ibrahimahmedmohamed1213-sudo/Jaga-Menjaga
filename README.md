@@ -2,7 +2,7 @@
 
 Our prototype for the SDP University Hackathon 2026 (People track). Team from IIUM.
 
-Try it here: https://courageous-cactus-b5928b.netlify.app
+Try it here: https://stirring-custard-7768cb.netlify.app/#street  
 
 ## What it is
 
